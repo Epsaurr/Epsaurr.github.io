@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
     question.innerHTML = "Hehehehe, Aku Juga Sayang Kamu";
     gif.src =
-      "https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gifyou.webp";
+      "https://media.tenor.com/vjpKNHGxMs0AAAAC/cute-shy.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
